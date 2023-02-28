@@ -84,3 +84,8 @@ COYG!
 ### Acknowledgements
 
 The data is gathered from several sources including transfermarkt, flashscore and fbref.com.
+
+### Author
+
+Rustem "bokushi" N.
+Ufa, Russian Federation
