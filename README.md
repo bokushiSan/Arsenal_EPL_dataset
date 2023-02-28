@@ -87,5 +87,5 @@ The data is gathered from several sources including transfermarkt, flashscore an
 
 ### Author
 
-Rustem "bokushi" N.
+Rustem "bokushi" N.\
 Ufa, Russian Federation
